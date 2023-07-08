@@ -75,7 +75,17 @@ body::-webkit-scrollbar-thumb {
 }
 @media screen and (max-width:1200px){
   .Container{
-    margin:10px 80px;
+    margin:10px auto;
+  }
+  .TextHeader{
+    font-size: 2rem;
+    color: #727272;
+    margin:10px auto 0 auto;
+  }
+  .TextDate{
+    font-size: 1.2rem;
+    margin:0px auto 10px auto;
+    color: #727272;
   }
   .Credit{
     margin:50px 80px;
